@@ -1,0 +1,5 @@
+# Copy to C:\Users\<you>\.wslconfig, then run `wsl --shutdown` in PowerShell.
+# Gives WSL enough system RAM to load the model without being OOM-killed.
+[wsl2]
+memory=16GB
+swap=16GB

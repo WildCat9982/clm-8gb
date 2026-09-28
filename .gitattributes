@@ -1,0 +1,2 @@
+# Keep Linux line endings on shell scripts even when the repo lives on a Windows drive
+*.sh text eol=lf
